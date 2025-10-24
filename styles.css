@@ -1,0 +1,46 @@
+/*
+
+CSS rules you may need:
+- font-family
+    - Arial, sans-serif
+- line-height
+- color
+- margin
+- padding
+- background-color
+- border-radius
+- border-left
+- border-bottom
+- margin-top
+- padding-left
+- padding-bottom
+- width
+- height
+- margin-bottom
+- font-size
+
+Pseudo classes you may need:
+- :hover
+- :first-letter
+- :nth-child
+
+*/
+
+/* Write your CSS code here */
+* {
+    background: rgb(214, 231, 241);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    background-color: rgb(21, 148, 227);
+    color: white;
+    margin: 10px 50px;
+    padding: 15px;
+}
+
+main {
+    background-color: white;
+    margin: 10px 50px;
+    padding: 15px;
+}
